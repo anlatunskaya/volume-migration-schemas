@@ -1,7 +1,7 @@
 {
     "title": "Migration Object Schema",
     "description": "This schema describes a migration object",
-    "$schema": "https://github.com/anlatunskaya/volume-migration-schemes/blob/master/schema/migration-object.schema.json",
+    "$schema": "https://raw.github.com/anlatunskaya/volume-migration-schemes/master/schema/migration-object.schema.json",
     "type": "object",
     "properties": {
         "id": {

@@ -1,7 +1,7 @@
 {
     "title": "Current Migration State Schema",
     "description": "This schema describes the ID format of an arbitrary OpenStack object",
-    "$schema": "https://github.com/anlatunskaya/volume-migration-schemes/blob/master/schema/current-migration-state.schema.json",
+    "$schema": "https://raw.github.com/anlatunskaya/volume-migration-schemes/master/schema/current-migration-state.schema.json",
     "type": "string",
     "maxLength": 36
 }

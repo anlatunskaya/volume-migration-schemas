@@ -1,7 +1,7 @@
 {
     "title": "Request Parameters for a Migration Initiation Schema",
     "description": "This schema describes the parameters for initiation migration request",
-    "$schema": "https://github.com/anlatunskaya/volume-migration-schemes/blob/master/schema/req-params-for-migration-init.schema.json",
+    "$schema": "https://raw.github.com/anlatunskaya/volume-migration-schemes/master/schema/req-params-for-migration-init.schema.json",
     "type": "object",
     "properties": {
         "volume-id": {
