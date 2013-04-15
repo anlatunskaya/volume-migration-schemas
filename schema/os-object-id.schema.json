@@ -1,0 +1,8 @@
+{
+    "title": "OpenStack Object Id Schema",
+    "description": "This schema describes the ID format of an arbitrary OpenStack object",
+    "$schema": "https://github.com/anlatunskaya/volume-migration-schemes/blob/master/schema/os-object-id.schema.json",
+    "type": "string",
+    "minLength": 36,
+    "maxLength": 36
+}

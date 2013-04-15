@@ -1,0 +1,14 @@
+{
+    "title": "Migration Object Schema, enveloped Schema",
+    "description": "This schema describes the Migration Collection object",
+    "$schema": "https://github.com/anlatunskaya/volume-migration-schemes/blob/master/schema/migration-collection-enveloped.schema.json",
+    "type": "object",
+    "properties": {
+        "migrations": {
+            "type": "array",
+            "items": {
+                "$ref": "./migration-object.schema.json"
+            }
+        }
+    }
+}

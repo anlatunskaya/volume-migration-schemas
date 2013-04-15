@@ -1,0 +1,7 @@
+{
+    "title": "Host Name Schema",
+    "description": "This schema describes the host name object",
+    "$schema": "https://github.com/anlatunskaya/volume-migration-schemes/blob/master/schema/host-name.schema.json",
+    "type": "string",
+    "maxLength": 36
+}

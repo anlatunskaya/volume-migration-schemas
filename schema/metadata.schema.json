@@ -1,0 +1,16 @@
+{
+    "title": "Metadata Schema",
+    "description": "This schema describes the metadata object",
+    "$schema": "https://github.com/anlatunskaya/volume-migration-schemes/blob/master/schema/metadata.schema.json",
+    "type": "array",
+    "properties": {
+        "key": {
+            "type": "string",
+            "maxLength": 256
+        },
+        "value": {
+            "type": "string",
+            "maxLength": 256
+        }
+    }
+}
